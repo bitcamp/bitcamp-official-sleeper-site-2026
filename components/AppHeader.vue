@@ -8,7 +8,7 @@
         <SocialIcons />
       </div>
       <div class="header-body">
-        <LinkButton text="I'm Interested!" link="https://forms.gle/a3kp1PL36q8u9Hk56" />
+        <LinkButton text="I'm Interested!" link="https://forms.gle/SmhTejVeN65okvZL6" />
       </div>
       <a id="mlh-trust-badge" class="mlh-display"
         href="https://mlh.io/na?utm_source=na-hackathon&utm_medium=TrustBadge&utm_campaign=2026-season&utm_content=white"
